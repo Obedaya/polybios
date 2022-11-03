@@ -1,0 +1,3 @@
+/home/simon/Documents/Uni/Programmierung1/polybios/cmake-build-debug/CMakeFiles/polybios.dir
+/home/simon/Documents/Uni/Programmierung1/polybios/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/simon/Documents/Uni/Programmierung1/polybios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
